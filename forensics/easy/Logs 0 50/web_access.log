@@ -1,5 +1,0 @@
-1. 203.0.113.50 - - [15/Oct/2026:14:00:01 +0000] "GET /login.php HTTP/1.1" 200 1200
-2. 203.0.113.50 - - [15/Oct/2026:14:00:45 +0000] "POST /login.php?user=admin&pass=wrongpass HTTP/1.1" 401 350
-3. 203.0.113.50 - - [15/Oct/2026:14:00:48 +0000] "POST /login.php?user=admin&pass=admin123 HTTP/1.1" 401 350
-4. 203.0.113.50 - - [15/Oct/2026:14:00:52 +0000] "POST /login.php?user=admin&pass=letmein2026 HTTP/1.1" 200 4500
-5. 203.0.113.50 - - [15/Oct/2026:14:02:10 +0000] "GET /admin_dashboard.php HTTP/1.1" 200 8900
