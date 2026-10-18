@@ -1,1 +1,0 @@
-Securinets{192.168.1.45,profile.php,resistance_agents}
