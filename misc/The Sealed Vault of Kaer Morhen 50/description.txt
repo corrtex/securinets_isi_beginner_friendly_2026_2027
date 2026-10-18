@@ -1,0 +1,5 @@
+Deep in the catacombs beneath Kaer Morhen lies an old iron vault left behind by the ancient Witchers. Geralt has found the chest containing Ciri's training scroll , but the heavy iron lock has seized up over centuries of rust and magic protection.
+
+Use your terminal knowledge to inspect the chest so Geralt can read the scroll inside.
+
+Author: cortex

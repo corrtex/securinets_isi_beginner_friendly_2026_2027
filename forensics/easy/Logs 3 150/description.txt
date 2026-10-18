@@ -1,0 +1,15 @@
+Agent, this is the final breach. The machines have moved past the web perimeter and made it directly into the system shell of our core Zion server.
+
+Tank has intercepted the local system authentication log (auth.log). The intruder launched a massive brute-force wave against the terminal, successfully cracked an administrative account, forged a new backdoor user, and downloaded a dangerous privilege enumeration script to map out the system.
+
+Examine the raw system logs below to track their entire post-exploitation sequence and answer the operator's final questions.
+
+Q1:What IP address was responsible for the suspicious SSH connections?
+
+Q2:What new user account was created and later added to the `sudo` group?
+
+Q3:What script was downloaded using `sudo` after the new account gained administrative privileges?
+
+Flag format: Securinets{Q1,Q2,Q3}
+
+Author: cortex

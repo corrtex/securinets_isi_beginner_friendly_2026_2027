@@ -1,0 +1,3 @@
+Patrick Jane found this file sitting on a secure CBI terminal, but trying to open it yields nothing but errors. The data is all there, yet something fundamental at the very beginning has been tampered with and distorted. Figure out what’s missing from the structure and make the file whole again before time runs out.
+
+Author: cortex

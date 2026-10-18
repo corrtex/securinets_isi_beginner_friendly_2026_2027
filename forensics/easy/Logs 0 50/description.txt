@@ -1,0 +1,14 @@
+Agent, the resistance has intercepted a suspicious data stream directly from a corporate server inside the Matrix. The machines are trying to breach our secure terminals, and we need you to trace their digital footprint.
+Put on your shades, open your mind, and answer the operator's questions below to complete your first training simulation.
+
+Q1:What is the attacker ip address? 
+
+Q2:What password did the attacker use to login? 
+
+Q3:What file did the attacker access after breaching the login gate? 
+
+Flag format: Securinets{Q1,Q2,Q3}
+
+Author: cortex
+
+

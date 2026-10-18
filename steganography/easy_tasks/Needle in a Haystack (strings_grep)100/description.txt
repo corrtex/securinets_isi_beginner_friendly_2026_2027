@@ -1,0 +1,4 @@
+Finding a single clue among hundreds of fake CBI case notes and witness statements sounds impossible. Don't waste time reading every line—use a trusty pattern-matching text search command to scan the haystack for the needle.
+
+flag format: Securinets{...}
+Author: cortex

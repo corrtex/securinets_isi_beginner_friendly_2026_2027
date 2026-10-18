@@ -1,0 +1,3 @@
+An Arasaka corporate terminal got infected with a stealthy backdoor that bypassed standard egress filters entirely. Rather than making a normal connection, the compromised host was instructed to whisper its secrets outward packet by packet across the echo lines. Trace the network stream and look closely at what each little request is carrying across the wire.
+
+Author: cortex

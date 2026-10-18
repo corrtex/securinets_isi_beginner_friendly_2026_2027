@@ -1,0 +1,3 @@
+The target server's web traffic was captured mid-transfer, but the corporate data payload isn't sitting in plain sight. Someone tried to smuggle the prize out through a standard browser session by wrapping it in layers of cryptographic ice. Reconstruct the session stream, inspect the transfer contents, and see if you can break past the encryption wrapper.
+
+Author: cortex

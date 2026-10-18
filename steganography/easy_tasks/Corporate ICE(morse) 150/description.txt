@@ -1,0 +1,4 @@
+We intercepted a corrupted audio transmission bleeding through the corporate firewall of Securinets Corp's grid. Our netrunners suspect it's a dead-drop audio beacon left behind by an underground rogue AI.
+The signal pulses at a steady 700Hz frequency, carrying archaic binary-style tones across the darknet sub-channels. Tune your decoders, lock onto the frequency, and extract the flag before corporate ICE traces our connection.
+
+Author: cortex

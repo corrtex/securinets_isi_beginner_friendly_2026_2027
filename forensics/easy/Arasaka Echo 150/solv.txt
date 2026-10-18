@@ -1,0 +1,1 @@
+tshark -r ping.pcap -Y "icmp.type==8 && ip.src==10.0.0.5" -T fields -e data.data | xxd -r -p

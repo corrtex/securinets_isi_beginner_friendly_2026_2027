@@ -1,0 +1,9 @@
+python3 -c "
+import zlib
+d = bytearray(open('baneful_payback.png','rb').read())
+d[20:24] = (1200).to_bytes(4,'big')
+d[29:33] = zlib.crc32(d[12:29]).to_bytes(4,'big')
+open('fixed.png','wb').write(d)
+"
+pngcheck fixed.png      
+xdg-open fixed.png       

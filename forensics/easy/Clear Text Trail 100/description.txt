@@ -1,0 +1,3 @@
+A rogue netrunner browsed through a corporate intranet to grab confidential files before pulling out. Most of the traffic is just routine web noise, but one specific request accidentally fetched a page holding the prized data in plain text. Follow the browser session streams and look for the response that carried more than just standard markup.
+
+Author: cortex

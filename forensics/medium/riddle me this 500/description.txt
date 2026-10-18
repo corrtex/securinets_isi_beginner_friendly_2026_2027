@@ -1,0 +1,3 @@
+The Riddler locked Gotham’s power grid shutdown codes inside a raw storage dump. No headers, high entropy, zero file system visible. Solve his riddle, construct the keyphrase, and mount the volume before Gotham goes dark.
+
+Author: cortex

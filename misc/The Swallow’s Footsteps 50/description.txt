@@ -1,0 +1,5 @@
+Geralt of Rivia has been tracking Ciri across the Continent, following every whisper from every place and everyone.Ciri left a hidden message containing her whereabouts.
+
+Searching through this vast web of locations by hand would take a lifetime. Use your terminal navigation and searching skills to locate the genuine message from Ciri before Eredin catches her trail!
+
+Author: cortex

@@ -1,0 +1,3 @@
+Two sides to every coin, and two layers to every image. Harvey Dent's confidential records are locked behind a cryptographic mask, but his security is notoriously flawed. Crack the password protecting the hidden payload before the coin lands on the scarred side.
+
+Author: cortex

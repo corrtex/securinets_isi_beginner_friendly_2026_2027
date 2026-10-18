@@ -1,0 +1,3 @@
+A corpo sysadmin still jacks into the vault through an ancient remote terminal, the kind of legacy uplink no one bothered to wrap in ICE. A netrunner was sniffing the line during his last login. The keystrokes went out one by one, never whole... but the wire remembers everything. Stitch the session back together and find the passcode he typed.
+
+Author: cortex

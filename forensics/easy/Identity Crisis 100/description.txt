@@ -1,0 +1,3 @@
+Is it a text file? Is it an image? Is it a bomb threat? Don't trust what the file extension tells you. Inspect it to discover its true identity before making a move.
+
+Author: cortex

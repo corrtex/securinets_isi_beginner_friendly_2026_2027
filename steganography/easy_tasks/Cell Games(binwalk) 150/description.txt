@@ -1,0 +1,7 @@
+“Perfect... I have attained perfection.”
+
+Before launching the Cell Games broadcast across the globe, the ultimate bio-android intercepted a classified Capsule Corp diagnostic recording and modified it. The public file looks like a standard, harmless piece of media, but tech analysts suspect Cell hid his ultimate schematic blueprint deep inside the binary structure.
+
+Find the hidden payload, breach Cell's security encryption, and extract the flag before time runs out. The fate of Earth depends on it!
+
+Author: cortex

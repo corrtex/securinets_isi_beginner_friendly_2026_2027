@@ -1,0 +1,13 @@
+# 1. find the phishing page + image in HTTP
+tshark -r incident.pcap -Y http -T fields -e http.host -e http.request.uri
+
+# 2. export agent.png, then read the key from its metadata
+tshark -r incident.pcap --export-objects http,./out
+exiftool out/agent.png | grep -i comment      # c2_xor_key: stress
+
+# 3. pull the exfil chunks, ordered, glued into one hex string
+tshark -r incident.pcap -Y 'dns.qry.name contains "exfil"' -T fields -e dns.qry.name \
+  | sort -u | sed -E 's/^[0-9]+\.([0-9a-f]+)\.exfil.*/\1/' | tr -d '\n'; echo
+
+# 4. decode: From Hex → XOR key "stress"
+#    (paste the hex into CyberChef: From Hex, then XOR key=stress as UTF8)

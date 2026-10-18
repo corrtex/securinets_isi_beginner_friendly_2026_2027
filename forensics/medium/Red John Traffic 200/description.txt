@@ -1,0 +1,4 @@
+Patrick Jane noticed a suspicious encrypted network stream originating from a terminal inside the California Bureau of Investigation headquarters. Before the mole could sever the connection, agents intercepted the network dump along with a temporary session log left in the local memory cache.
+Red John leaves clues everywhere—even in the encrypted noise. Decrypt the traffic and find out what message was sent before the smiley face appears.
+
+Author: cortex
