@@ -1,1 +1,0 @@
-Securinets{%3B,/usr/bin/python3,whoami}
